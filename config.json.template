@@ -1,5 +1,5 @@
 {
-  "nick": "yourIrcNickHere",
+  "nick": "@peteyreplies",
   "accounts": [
     {
       "consumer_key": "",
@@ -9,7 +9,7 @@
       "template": "{{page}} Wikipedia article edited anonymously by {{name}} {{&url}}",
       "ranges": {
         "MIT": [
-          "18.*.*.*",
+          "18.0.0.0/8",
         ]
       },
       "whitelist": {
