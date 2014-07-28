@@ -16,7 +16,7 @@ To run anon you will need to:
 
 1. install [Node](http://nodejs.org)
 1. `npm install -g coffee-script`
-1. `git clone https://github.com/peteyreplies/mitedits.git`
+1. `git clone https://github.com/peteyreplies/anon.git`
 1. `cd anon`
 1. `npm install`
 1. `cp config.json.template config.json`
